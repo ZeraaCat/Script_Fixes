@@ -1,12 +1,3 @@
-Order of Summer CG--
-"cg": {
-            "tab1": [
-                {"name": sum_cv.name, "idle": sum_cv.idle, "hover": sum_cv.hover , "locked": sum_cv.locked, "background": sum_cv.background},
-                {"name": sum_st_btst.name, "idle": sum_st_btst.idle, "hover": sum_st_btst.hover , "locked": sum_st_btst.locked, "background": sum_st_btst.background},
-                {"name": sum_st_fny.name, "idle": sum_st_fny.idle, "hover": sum_st_fny.hover , "locked": sum_st_fny.locked, "background": sum_st_fny.background},
-                {"name": sum_st_bten.name, "idle": sum_st_bten.idle, "hover": sum_st_bten.hover , "locked": sum_st_bten.locked, "background": sum_st_bten.background},
-                {"name": sum_st_edcg.name, "idle": sum_st_edcg.idle, "hover": sum_st_edcg.hover , "locked": sum_st_edcg.locked, "background": sum_st_edcg.background},
-                   
 
 
 Chapter 2 Edits---
